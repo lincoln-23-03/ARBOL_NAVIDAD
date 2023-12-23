@@ -1023,8 +1023,8 @@ body ul:nth-child(2) li:nth-child(4n+3):before {
       <span></span>
     </div>
     <div class="promo">
-      <p>Feliz Navidad</p>
-      <h2>BELLA🎄DAMA</h2>
+       <p>Feliz Navidad</p>
+       <h2>BELLA🎄DAMA</h2>
     </div>
     <div class="caja">
       <span></span>
